@@ -30,4 +30,4 @@ def kesha_maker(array)
 end
 
 def find_a(array)
-  array.keep_if {|arr| 
+  array.keep_if {|arr| arr[0] = a}
